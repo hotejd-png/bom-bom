@@ -1,0 +1,544 @@
+WINDOW: btc-updown-5m-1778796000 | btc-updown-5m-1778796000
+====================================================================================================
+window_et: 6:00-6:05 PM ET
+window_local: 01:00-01:05 Europe/Kyiv
+window_start_iso: 2026-05-14T22:00:00+00:00
+window_end_iso:   2026-05-14T22:05:00+00:00
+first_ts: 2026-05-14T22:00:10+00:00
+last_ts:  2026-05-14T22:04:50+00:00
+first_sec_from_start: 10
+last_sec_from_start:  290
+events:   354
+before_window_events: 0
+after_window_events: 1
+stats_grace_before_start_sec: 10
+stats_grace_after_end_sec: 30
+trades:   354
+buy:      354
+sell:     0
+merge:    0
+total_usd: 3216.830469
+total_size: 5561.328639
+spent_buy_usd: 3216.830469
+returned_sell_usd: 0
+returned_merge_usd: 0
+estimated_result_usd: -3216.830469
+first_merge_ts: N/A
+total_merge_size: 0.0
+stats_csv: stats.csv
+
+PAIR STATS (BUY SIDE)
+----------------------------------------------------------------------------------------------------
+buy_up_shares: 2807.407325
+buy_down_shares: 2753.921314
+paired_shares: 2753.921314
+unpaired_up_shares: 53.486011
+unpaired_down_shares: 0.0
+avg_up_buy_price: 0.43061
+avg_down_buy_price: 0.729118
+pair_cost_per_share: 1.159728
+
+PNL ESTIMATES
+----------------------------------------------------------------------------------------------------
+paired_buy_cost_usd: 3193.798884
+paired_redeem_value_usd: 2753.921314
+theoretical_pair_pnl_usd: -439.87757
+theoretical_pair_roi_pct: -13.7729
+merged_pairs_est_shares: 0.0
+merged_pair_pnl_est_usd: 0.0
+edge_per_pair_now: -0.159728
+merge_coverage_pct: 0.0
+realization_gap_usd: 2776.952899
+window_quality: WEAK
+
+CLOSED POSITIONS (THIS SLUG)
+----------------------------------------------------------------------------------------------------
+No closed positions for this slug yet
+
+
+FIRST MINUTE TRADES (0-59s)
+----------------------------------------------------------------------------------------------------
+count: 83
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.46       | size=10.0       | usd=4.6       
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Down       | price=0.5        | size=31.5564    | usd=15.7782   
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.4600000345600047 | size=9.259258   | usd=4.259259  
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.47       | size=50.0       | usd=23.5      
+2026-05-14T22:00:11+00:00 | sec=11  | BUY    | Up         | price=0.46000002880000807 | size=5.555554   | usd=2.555555  
+2026-05-14T22:00:11+00:00 | sec=11  | BUY    | Up         | price=0.46000021600011 | size=2.037036   | usd=0.937037  
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.47       | size=50.0       | usd=23.5      
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.46       | size=23.14      | usd=10.6444   
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.45       | size=50.0       | usd=22.5      
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44       | size=14.45      | usd=6.358     
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.4400000746667065 | size=5.35714    | usd=2.357142  
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35       | size=0.55       | usd=0.1925    
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35000006500003683 | size=2.307691   | usd=0.807692  
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44000002036365415 | size=1.964284   | usd=0.864285  
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44       | size=20.0       | usd=8.8       
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44000000486956625 | size=8.214284   | usd=3.614285  
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35000006500003683 | size=2.307691   | usd=0.807692  
+2026-05-14T22:00:18+00:00 | sec=18  | BUY    | Down       | price=0.3500000121875013 | size=24.615382  | usd=8.615384  
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.700000180000072 | size=3.333332   | usd=2.333333  
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.65       | size=50.0       | usd=32.5      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.67       | size=50.0       | usd=33.5      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.69       | size=50.0       | usd=34.5      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.7        | size=6.6        | usd=4.62      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.66       | size=50.0       | usd=33.0      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.68       | size=50.0       | usd=34.0      
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.7        | size=10.0       | usd=7.0       
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.5800000168000027 | size=11.90476   | usd=6.904761  
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.5800000728000116 | size=7.142856   | usd=4.142857  
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.58       | size=16.86      | usd=9.7788    
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.58       | size=14.08      | usd=8.1664    
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.53       | size=4.94       | usd=2.6182    
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.53       | size=27.27      | usd=14.4531   
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.52       | size=50.0       | usd=26.0      
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.5300000286722505 | size=17.787233  | usd=9.427234  
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.54       | size=46.11      | usd=24.8994   
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.53       | size=50.0       | usd=26.5      
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.5400001131232189 | size=3.889564   | usd=2.100365  
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Down       | price=0.45       | size=50.0       | usd=22.5      
+2026-05-14T22:00:29+00:00 | sec=29  | BUY    | Up         | price=0.52       | size=44.82      | usd=23.3064   
+2026-05-14T22:00:29+00:00 | sec=29  | BUY    | Up         | price=0.5200000695204556 | size=5.178332   | usd=2.692733  
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Down       | price=0.52       | size=14.01      | usd=7.2852    
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.4600000119998791 | size=36.667036  | usd=16.866837 
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.4600000688695964 | size=6.388886   | usd=2.938888  
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.46       | size=1.85185    | usd=0.851851  
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Down       | price=0.49       | size=50.0       | usd=24.5      
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=6.73       | usd=3.6342    
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=2.13       | usd=1.1502    
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=0.01       | usd=0.0054    
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=9.0        | usd=4.86      
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400000478400142 | size=5.434781   | usd=2.934782  
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400000140305037 | size=9.978259   | usd=5.38826   
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400002392001149 | size=2.173912   | usd=1.173913  
+2026-05-14T22:00:45+00:00 | sec=45  | BUY    | Up         | price=0.45000002131311045 | size=16.421817  | usd=7.389818  
+2026-05-14T22:00:45+00:00 | sec=45  | BUY    | Up         | price=0.45       | size=5.0        | usd=2.25      
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45       | size=0.38       | usd=0.171     
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45000001925000127 | size=18.181817  | usd=8.181818  
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45       | size=10.0       | usd=4.5       
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=18.5       | usd=10.175    
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=6.9        | usd=3.795     
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.54       | size=2.0        | usd=1.08      
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.56       | size=22.0       | usd=12.32     
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.5400000838963925 | size=5.244564   | usd=2.832065  
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=30.0       | usd=16.5      
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.54       | size=19.66      | usd=10.6164   
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.56       | size=28.0       | usd=15.68     
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=43.1       | usd=23.705    
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=1.5        | usd=0.825     
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.5400000247811476 | size=12.913042  | usd=6.973043  
+2026-05-14T22:00:53+00:00 | sec=53  | BUY    | Up         | price=0.5400000858667079 | size=3.260868   | usd=1.760869  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.450000077102865 | size=1.945453   | usd=0.875454  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.4500001913044476 | size=2.090908   | usd=0.940909  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45000004910718233 | size=2.036362   | usd=0.916363  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45000001925000127 | size=18.181817  | usd=8.181818  
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181  
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45000006754387506 | size=5.181817   | usd=2.331818  
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181  
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181  
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.45       | size=2.0        | usd=0.9       
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44000001787234144 | size=20.142856  | usd=8.862857  
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44       | size=5.0        | usd=2.2       
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44       | size=5.0        | usd=2.2       
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.4400000128735654 | size=9.321427   | usd=4.101428  
+
+LAST MINUTE TRADES (240-299s)
+----------------------------------------------------------------------------------------------------
+count: 35
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=24.0       | usd=18.24     
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=2.0        | usd=1.52      
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=24.0       | usd=18.24     
+2026-05-14T22:04:02+00:00 | sec=242 | BUY    | Down       | price=0.62       | size=10.4       | usd=6.448     
+2026-05-14T22:04:04+00:00 | sec=244 | BUY    | Down       | price=0.62       | size=10.0       | usd=6.2       
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.64       | size=20.0       | usd=12.8      
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=5.0        | usd=3.35      
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=7.16       | usd=4.7972    
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=10.0       | usd=6.7       
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=15.0       | usd=9.9       
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=9.05       | usd=6.0635    
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=15.0       | usd=9.9       
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=20.0       | usd=13.2      
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=6.63       | usd=4.3095    
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=15.0       | usd=9.75      
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.6700000218225827 | size=18.787877  | usd=12.587878 
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=20.0       | usd=13.0      
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.64       | size=50.0       | usd=32.0      
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.65       | size=10.0       | usd=6.5       
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.65       | size=10.0       | usd=6.5       
+2026-05-14T22:04:30+00:00 | sec=270 | BUY    | Down       | price=0.8600000714482887 | size=10.357141  | usd=8.907142  
+2026-05-14T22:04:30+00:00 | sec=270 | BUY    | Down       | price=0.63       | size=2.0        | usd=1.26      
+2026-05-14T22:04:32+00:00 | sec=272 | BUY    | Down       | price=0.8600001176000188 | size=7.142856   | usd=6.142857  
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=13.17      | usd=12.7749   
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=5.15       | usd=4.9955    
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=31.68      | usd=30.7296   
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.96       | size=1.04       | usd=0.9984    
+2026-05-14T22:04:43+00:00 | sec=283 | BUY    | Down       | price=0.96       | size=20.4925    | usd=19.6728   
+2026-05-14T22:04:43+00:00 | sec=283 | BUY    | Down       | price=0.95       | size=13.89      | usd=13.1955   
+2026-05-14T22:04:44+00:00 | sec=284 | BUY    | Down       | price=0.940000057815852 | size=15.566665  | usd=14.632666 
+2026-05-14T22:04:44+00:00 | sec=284 | BUY    | Down       | price=0.95       | size=9.09       | usd=8.6355    
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=2.87       | usd=2.7839    
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=1.04       | usd=1.0088    
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=1.04       | usd=1.0088    
+2026-05-14T22:04:50+00:00 | sec=290 | BUY    | Down       | price=0.97       | size=30.0       | usd=29.1      
+
+ALL EVENTS (FULL, NO TRUNCATION)
+----------------------------------------------------------------------------------------------------
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.46       | size=10.0       | usd=4.6        | ext_id=raw:0588d9c55810c5723cce228cadd484da07ae8bb4
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Down       | price=0.5        | size=31.5564    | usd=15.7782    | ext_id=raw:23f83c971649a6567cfbed8b08a12f52e266a49d
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.4600000345600047 | size=9.259258   | usd=4.259259   | ext_id=raw:bcbc699fbff736029af56469e5df0f5d6abc4ac1
+2026-05-14T22:00:10+00:00 | sec=10  | BUY    | Up         | price=0.47       | size=50.0       | usd=23.5       | ext_id=raw:ee66fe2d219dcd5f1850beb92eb6340e11cef040
+2026-05-14T22:00:11+00:00 | sec=11  | BUY    | Up         | price=0.46000002880000807 | size=5.555554   | usd=2.555555   | ext_id=raw:83ed9a98cbc85d5a146f66537e24ca54aa8c9a9b
+2026-05-14T22:00:11+00:00 | sec=11  | BUY    | Up         | price=0.46000021600011 | size=2.037036   | usd=0.937037   | ext_id=raw:eeeb49d67c90ab4632bd18447d1aad5beac928f6
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.47       | size=50.0       | usd=23.5       | ext_id=raw:0221cc96b9c0ca6d8b6a16ac69c8f249d5d31122
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.46       | size=23.14      | usd=10.6444    | ext_id=raw:02cfeec90625c071ef400d27ed7a2b5cd7919ac0
+2026-05-14T22:00:13+00:00 | sec=13  | BUY    | Up         | price=0.45       | size=50.0       | usd=22.5       | ext_id=raw:772b945ef10384016250f156c1a2ce0e47906063
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44       | size=14.45      | usd=6.358      | ext_id=raw:00158e9121a27093bbba19cabefe3d65d431bb7b
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.4400000746667065 | size=5.35714    | usd=2.357142   | ext_id=raw:1634dac510a6f14cbbd4e63bd1db341cb32e0274
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35       | size=0.55       | usd=0.1925     | ext_id=raw:21e180a3f915a19e78dd4ee895ad1c0e6645ca23
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35000006500003683 | size=2.307691   | usd=0.807692   | ext_id=raw:3dd36d8ea10da114972a54c5ccc3e31d0bf9aceb
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44000002036365415 | size=1.964284   | usd=0.864285   | ext_id=raw:4047bb83ea291fba11c4cd2e870a2f18d87df3a2
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44       | size=20.0       | usd=8.8        | ext_id=raw:603ad358f8bfb5b2a3de88b7e1aade777d595e50
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.44000000486956625 | size=8.214284   | usd=3.614285   | ext_id=raw:631652b80d97248a2fce68949ed8eadab2eb85a1
+2026-05-14T22:00:17+00:00 | sec=17  | BUY    | Down       | price=0.35000006500003683 | size=2.307691   | usd=0.807692   | ext_id=raw:69f9482243b1f0980a813845511c10bddb4860d7
+2026-05-14T22:00:18+00:00 | sec=18  | BUY    | Down       | price=0.3500000121875013 | size=24.615382  | usd=8.615384   | ext_id=raw:5e6dde6631d1a7eb504c0256a7d8e4a8973cb4f8
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.700000180000072 | size=3.333332   | usd=2.333333   | ext_id=raw:0c9708564fe368e9e30ae05a104dbee6544489c1
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.65       | size=50.0       | usd=32.5       | ext_id=raw:259ec2c90ee9553049ed61e56285c7e97c89f8f4
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.67       | size=50.0       | usd=33.5       | ext_id=raw:5b309a5351b2b6445fb699b30f16afa8b967fdcc
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.69       | size=50.0       | usd=34.5       | ext_id=raw:621fdae3306f903b78f06def6709a88df8e967a4
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.7        | size=6.6        | usd=4.62       | ext_id=raw:7286289d7a6335a8c6fc56bc087b005b2d5ef55a
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.66       | size=50.0       | usd=33.0       | ext_id=raw:72a8bf3c434b91353962cd219e51830dd9388eb7
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.68       | size=50.0       | usd=34.0       | ext_id=raw:a24ffff1a96825960a261dc3a074b0058a7bdbbb
+2026-05-14T22:00:20+00:00 | sec=20  | BUY    | Up         | price=0.7        | size=10.0       | usd=7.0        | ext_id=raw:ddd1df3609c59b1cec15aa2739e814be99c81e98
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.5800000168000027 | size=11.90476   | usd=6.904761   | ext_id=raw:459dcdf5b83384fa3161c5266c9ae11c2d2e27f1
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.5800000728000116 | size=7.142856   | usd=4.142857   | ext_id=raw:83d2cd9ed43604d11df96707615d594d888ca972
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.58       | size=16.86      | usd=9.7788     | ext_id=raw:c99ec06402ab35424d605d71646d3e49cf4405bc
+2026-05-14T22:00:24+00:00 | sec=24  | BUY    | Up         | price=0.58       | size=14.08      | usd=8.1664     | ext_id=raw:dc840ffb891d22207e114f9aed9e50b65aec1f8b
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.53       | size=4.94       | usd=2.6182     | ext_id=raw:3ba80d30b40bbeee9968c5dd503ec9922b332288
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.53       | size=27.27      | usd=14.4531    | ext_id=raw:68a8babfd7bd5c58fc9f9d102c2520afb09127cb
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.52       | size=50.0       | usd=26.0       | ext_id=raw:afe1e58b4c8f307a2ae6e206378655e0b6993202
+2026-05-14T22:00:25+00:00 | sec=25  | BUY    | Up         | price=0.5300000286722505 | size=17.787233  | usd=9.427234   | ext_id=raw:b487637e295ec8bc55b5b7723d94fd2beeb1316a
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.54       | size=46.11      | usd=24.8994    | ext_id=raw:01c978f528930bc774c471a3224063192fc87cf1
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.53       | size=50.0       | usd=26.5       | ext_id=raw:1f9ecd7771574f50d396a60f225713d52044c44a
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Up         | price=0.5400001131232189 | size=3.889564   | usd=2.100365   | ext_id=raw:5796fa8e42a92f516a9ffa27308e0ad3103c9260
+2026-05-14T22:00:27+00:00 | sec=27  | BUY    | Down       | price=0.45       | size=50.0       | usd=22.5       | ext_id=raw:e51f4ceea771bc983b9ae8a526c84d26b807b67a
+2026-05-14T22:00:29+00:00 | sec=29  | BUY    | Up         | price=0.52       | size=44.82      | usd=23.3064    | ext_id=raw:53fda391803373033568008c900694421e9b4e6f
+2026-05-14T22:00:29+00:00 | sec=29  | BUY    | Up         | price=0.5200000695204556 | size=5.178332   | usd=2.692733   | ext_id=raw:9c911807b5f08649b74da5ffe60f69cb5c14c36e
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Down       | price=0.52       | size=14.01      | usd=7.2852     | ext_id=raw:5ba0b294fd5a0d1b37106f459916d858dd1d4a69
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.4600000119998791 | size=36.667036  | usd=16.866837  | ext_id=raw:5eac345f63b322e7a2c52160513a7009aec9a4e7
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.4600000688695964 | size=6.388886   | usd=2.938888   | ext_id=raw:db04458bc23b4142a1eb6244ea189b98792b4585
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Up         | price=0.46       | size=1.85185    | usd=0.851851   | ext_id=raw:e05d905202dee99f1a2b629e175fb6637073aa78
+2026-05-14T22:00:34+00:00 | sec=34  | BUY    | Down       | price=0.49       | size=50.0       | usd=24.5       | ext_id=raw:e6ebeb347c2b7e9d1604d9bd0a44b2ea8ad2fee3
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=6.73       | usd=3.6342     | ext_id=raw:3deaa78580b3e6450e7816bdc7092b5ef8f0db1c
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=2.13       | usd=1.1502     | ext_id=raw:c82f2ed3a1f5226b846f3b3b46fb6d0d841cedc6
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=0.01       | usd=0.0054     | ext_id=raw:c8e18db1a138a2d974a6dda75c9b92ab2f20a368
+2026-05-14T22:00:39+00:00 | sec=39  | BUY    | Down       | price=0.54       | size=9.0        | usd=4.86       | ext_id=raw:d9791e0c734051029d85fec2edc6928d3e665006
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400000478400142 | size=5.434781   | usd=2.934782   | ext_id=raw:8695befea03db3fdb71dc36407188c58dd099977
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400000140305037 | size=9.978259   | usd=5.38826    | ext_id=raw:96fc931a0c8bbb8b0a52dd1ef7b01b6b17820bcd
+2026-05-14T22:00:41+00:00 | sec=41  | BUY    | Down       | price=0.5400002392001149 | size=2.173912   | usd=1.173913   | ext_id=raw:e76ae7e32376ef8e6e6f90f29faa8574c1db06a4
+2026-05-14T22:00:45+00:00 | sec=45  | BUY    | Up         | price=0.45000002131311045 | size=16.421817  | usd=7.389818   | ext_id=raw:2e0fdf7cbfefb1ed12c0afb4a7d1c5ca155e63ba
+2026-05-14T22:00:45+00:00 | sec=45  | BUY    | Up         | price=0.45       | size=5.0        | usd=2.25       | ext_id=raw:4a6753642926dc16cbd7a6dd4b17ca87c71aff82
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45       | size=0.38       | usd=0.171      | ext_id=raw:56fb750d5492352b0de9c25f89448b5ebe6a641e
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45000001925000127 | size=18.181817  | usd=8.181818   | ext_id=raw:61c140b8680774a6f498c71a19c74e0219d15183
+2026-05-14T22:00:46+00:00 | sec=46  | BUY    | Up         | price=0.45       | size=10.0       | usd=4.5        | ext_id=raw:8f1d57c2cf060ffad9060ced8d55e3d83ca46155
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=18.5       | usd=10.175     | ext_id=raw:26cec07e7e81097952a2d47731b35e8ce1076753
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=6.9        | usd=3.795      | ext_id=raw:28070f617032635b3537f270be3d66dbc50b53cc
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.54       | size=2.0        | usd=1.08       | ext_id=raw:40562d46542b89bccd6bfd1662e5a59dbcc3dd73
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.56       | size=22.0       | usd=12.32      | ext_id=raw:51d163b1a4bfe088295f82bc11cac010962f9dfd
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.5400000838963925 | size=5.244564   | usd=2.832065   | ext_id=raw:a304ed3a12a3562ec717c03aa6b79de647f1122e
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=30.0       | usd=16.5       | ext_id=raw:a8351c456a285f19dea3e2ebe6984862673321c4
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.54       | size=19.66      | usd=10.6164    | ext_id=raw:db023d631e9e7d118bd39d67c21418a65b40c7c4
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.56       | size=28.0       | usd=15.68      | ext_id=raw:ea81576d32e2e77cd7674860f033edfd14cac733
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=43.1       | usd=23.705     | ext_id=raw:eb912e5e0444ea9e66ee49dea63cf333f2549fae
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.55       | size=1.5        | usd=0.825      | ext_id=raw:ed83798301b2309721ebadc5c6255680ca382d8d
+2026-05-14T22:00:52+00:00 | sec=52  | BUY    | Up         | price=0.5400000247811476 | size=12.913042  | usd=6.973043   | ext_id=raw:f0f2dcc0969d3a950bac8d9c48ec0b15aa191817
+2026-05-14T22:00:53+00:00 | sec=53  | BUY    | Up         | price=0.5400000858667079 | size=3.260868   | usd=1.760869   | ext_id=raw:7343852090711218fd62925cbf4ea014fae74bfb
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.450000077102865 | size=1.945453   | usd=0.875454   | ext_id=raw:63bcb4aec0416a0a4401f929fa78ddeb536da9ab
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.4500001913044476 | size=2.090908   | usd=0.940909   | ext_id=raw:6fae8e5d1ec0d9da767d13fdd0626f4c4b012e26
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181   | ext_id=raw:8463fcc424ccfa692f41e2b6628cee6569a550f1
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45000004910718233 | size=2.036362   | usd=0.916363   | ext_id=raw:89f78c6cac4479152baf142bb1c7a0460fd7703a
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45000001925000127 | size=18.181817  | usd=8.181818   | ext_id=raw:9b628df90556a6e5604eae3a7697bbee847a33a4
+2026-05-14T22:00:55+00:00 | sec=55  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181   | ext_id=raw:f7496c24927ce3a017b71e56c76f557f82b38069
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45000006754387506 | size=5.181817   | usd=2.331818   | ext_id=raw:6fa3f1090cc1127698313b115b6fcbb4d4409dc4
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181   | ext_id=raw:8e610df43df1c12ec6676137f89bbc844192feea
+2026-05-14T22:00:57+00:00 | sec=57  | BUY    | Down       | price=0.45       | size=1.81818    | usd=0.818181   | ext_id=raw:d1db6903f57b712da0a7591c595e81b859372146
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.45       | size=2.0        | usd=0.9        | ext_id=raw:53c487b70b89d78b73cbaea1ff6e442c1affb052
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44000001787234144 | size=20.142856  | usd=8.862857   | ext_id=raw:79a028d381e633be4cd8beb4daf97493b51e55f2
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44       | size=5.0        | usd=2.2        | ext_id=raw:c708d06ded5eddfb0dd16c34dc18b751a7edea68
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.44       | size=5.0        | usd=2.2        | ext_id=raw:d51fdf17c1b6ba9abb12f208455f55272140523e
+2026-05-14T22:00:59+00:00 | sec=59  | BUY    | Down       | price=0.4400000128735654 | size=9.321427   | usd=4.101428   | ext_id=raw:eb7d80eb5c5712f4cdd05342d68f5d142b6b5e38
+2026-05-14T22:01:04+00:00 | sec=64  | BUY    | Up         | price=0.55       | size=10.0       | usd=5.5        | ext_id=raw:4c71ce0aea243ff73a027e06d640bde6a318bd14
+2026-05-14T22:01:04+00:00 | sec=64  | BUY    | Up         | price=0.5500015570988135 | size=0.32111    | usd=0.176611   | ext_id=raw:9756f7d946966728233641c96c97fd8c6c1b0c25
+2026-05-14T22:01:06+00:00 | sec=66  | BUY    | Down       | price=0.44       | size=50.0       | usd=22.0       | ext_id=raw:5ec81a85116877254b0998fb6d0c86aefac71213
+2026-05-14T22:01:18+00:00 | sec=78  | BUY    | Down       | price=0.7700000323593098 | size=20.086955  | usd=15.466956  | ext_id=raw:0af497b1129b30b241f7dd3c2df495c5ae78a98c
+2026-05-14T22:01:20+00:00 | sec=80  | BUY    | Down       | price=0.7700000352098798 | size=17.608694  | usd=13.558695  | ext_id=raw:81aa16b4008156f1ca6e641ca3db253e8edd5646
+2026-05-14T22:01:20+00:00 | sec=80  | BUY    | Down       | price=0.7700001725000432 | size=4.347825   | usd=3.347826   | ext_id=raw:af815da799c4356bc247e1d40a050e2bd04a2ec7
+2026-05-14T22:01:20+00:00 | sec=80  | BUY    | Down       | price=0.7700001725000432 | size=4.347825   | usd=3.347826   | ext_id=raw:beabe6c211c13d66382aa1bf2c00d733e87f9fa8
+2026-05-14T22:01:20+00:00 | sec=80  | BUY    | Down       | price=0.77       | size=25.56      | usd=19.6812    | ext_id=raw:c0de0a338bdf89ed0e2ff24530fc53f0257fe6af
+2026-05-14T22:01:20+00:00 | sec=80  | BUY    | Down       | price=0.7700001888427073 | size=3.865651   | usd=2.976552   | ext_id=raw:c58a0d1008e83c0a65cf415c910388ff54493f58
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.82       | size=9.22       | usd=7.5604     | ext_id=raw:047d80b331732297e6e854bce0fdf6fa3bd602bb
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.82       | size=18.0       | usd=14.76      | ext_id=raw:69d3d122d6d571664c4f632e4ba3aa2a79a5cbe5
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.82       | size=12.0       | usd=9.84       | ext_id=raw:89e61b104fde0c69548cbf8034ab91be656ac8e2
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.8200001309091147 | size=6.11111    | usd=5.011111   | ext_id=raw:918f0dfdbb90b074c5acc60c99acab61754409ee
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.7700001725000432 | size=4.347825   | usd=3.347826   | ext_id=raw:e61bf32d938b61d25f24e91d859c0a5339278c2c
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.8200001296000363 | size=5.555554   | usd=4.555555   | ext_id=raw:f05ba47896546eabff21a6ff821195f9996c1adb
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.8200001309091147 | size=6.11111    | usd=5.011111   | ext_id=raw:f39a71ddb36ea81e4cf94d24d26d79c0794a598d
+2026-05-14T22:01:21+00:00 | sec=81  | BUY    | Down       | price=0.8200000630927939 | size=10.777776  | usd=8.837777   | ext_id=raw:f6d0c3653366cd4b0d4c69232779ef6e5322bf1a
+2026-05-14T22:01:23+00:00 | sec=83  | BUY    | Down       | price=0.8200001296000363 | size=5.555554   | usd=4.555555   | ext_id=raw:48ad141fc21106f216e7bb206b60472b812ade33
+2026-05-14T22:01:23+00:00 | sec=83  | BUY    | Down       | price=0.84       | size=50.0       | usd=42.0       | ext_id=raw:b00c361b40c77e06ce666c40518d1024c9b3f107
+2026-05-14T22:01:23+00:00 | sec=83  | BUY    | Down       | price=0.8200000361956548 | size=20.444443  | usd=16.764444  | ext_id=raw:b6125e7fd4e29f832fbf2c2aff5a53442bc05c6a
+2026-05-14T22:01:25+00:00 | sec=85  | BUY    | Down       | price=0.85       | size=50.0       | usd=42.5       | ext_id=raw:494a67ac1a0525d5df29ee7e3340fd87958ecfed
+2026-05-14T22:01:25+00:00 | sec=85  | BUY    | Down       | price=0.84       | size=38.33      | usd=32.1972    | ext_id=raw:83367be5fbd47826bfd7a6801b7665640e945315
+2026-05-14T22:01:25+00:00 | sec=85  | BUY    | Down       | price=0.84       | size=50.0       | usd=42.0       | ext_id=raw:84f686ee3d8dab10e9dc7f4a7640ea878a977fc9
+2026-05-14T22:01:25+00:00 | sec=85  | BUY    | Down       | price=0.85       | size=50.0       | usd=42.5       | ext_id=raw:b079cfcd26d3f9d0286d5e6eb9c17aa61cd544f1
+2026-05-14T22:01:25+00:00 | sec=85  | BUY    | Down       | price=0.84       | size=11.665625  | usd=9.799125   | ext_id=raw:c9c0f11e30f8f8ac349aafb5f948e4a15dc174db
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.85       | size=18.18      | usd=15.453     | ext_id=raw:1396615e486f14a3e5b132b82c8dec6e4bb2c204
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.85       | size=5.0        | usd=4.25       | ext_id=raw:2836fa3eaff440b938b99cb9b362d1ac16b5e7b9
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.85       | size=3.48       | usd=2.958      | ext_id=raw:580d47f1b42d1e27251b17a5e461a55f2bfd5d70
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.8500001125000282 | size=6.666665   | usd=5.666666   | ext_id=raw:e1be466bcb45b1d1c028fb0a94226da0c87a7695
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.85       | size=10.0       | usd=8.5        | ext_id=raw:f63af9b2e57854ca6ebeaec6ba1e874b6c15d36e
+2026-05-14T22:01:27+00:00 | sec=87  | BUY    | Down       | price=0.8500001125000282 | size=6.666665   | usd=5.666666   | ext_id=raw:fb75833d04ca0eb210b85cd4e75672ac627c3e00
+2026-05-14T22:01:28+00:00 | sec=88  | BUY    | Down       | price=0.84       | size=1.25       | usd=1.05       | ext_id=raw:267b5e835bebc5de2fd6187a8ef7d5f31babb75a
+2026-05-14T22:01:28+00:00 | sec=88  | BUY    | Down       | price=0.84       | size=7.87       | usd=6.6108     | ext_id=raw:53991d041570ccf22377ba908e1c461006ddce68
+2026-05-14T22:01:28+00:00 | sec=88  | BUY    | Down       | price=0.84       | size=40.88      | usd=34.3392    | ext_id=raw:8ecb14f46e473b288c686b43abf34dddf8d20ecf
+2026-05-14T22:01:30+00:00 | sec=90  | BUY    | Down       | price=0.860000139700668 | size=6.012856   | usd=5.171057   | ext_id=raw:6bf1becedee598365ca9b1ecd244340b6054ab8e
+2026-05-14T22:01:30+00:00 | sec=90  | BUY    | Down       | price=0.85       | size=50.0       | usd=42.5       | ext_id=raw:aa1e46ea619a81cb6310a48158f65a6e33cf7cef
+2026-05-14T22:01:32+00:00 | sec=92  | BUY    | Down       | price=0.86       | size=4.98       | usd=4.2828     | ext_id=raw:7c0ecdb1911914ea705ca15cc952b83725f3fff4
+2026-05-14T22:01:32+00:00 | sec=92  | BUY    | Down       | price=0.8600001176000188 | size=7.142856   | usd=6.142857   | ext_id=raw:8b814668aca552d18a5b6c64bc1c6ec2cd7b4e34
+2026-05-14T22:01:32+00:00 | sec=92  | BUY    | Down       | price=0.86       | size=39.0       | usd=33.54      | ext_id=raw:e26fd693016d4193b4d0533d3330bfbfd73790b9
+2026-05-14T22:01:32+00:00 | sec=92  | BUY    | Down       | price=0.86       | size=50.0       | usd=43.0       | ext_id=raw:e9b8b48304c0345197f5d086b7ca8246936cbbc4
+2026-05-14T22:01:34+00:00 | sec=94  | BUY    | Down       | price=0.86       | size=4.44       | usd=3.8184     | ext_id=raw:4d19cc6d0b26b25aee57b4ad8c5d8a66d46b6e3e
+2026-05-14T22:01:35+00:00 | sec=95  | BUY    | Down       | price=0.85       | size=50.0       | usd=42.5       | ext_id=raw:1094ef9f51784dd37acf66e309262661db01b5e0
+2026-05-14T22:01:35+00:00 | sec=95  | BUY    | Down       | price=0.87       | size=50.0       | usd=43.5       | ext_id=raw:26e63b5f5bf6c39138436bb5e78a34e5ee9996d0
+2026-05-14T22:01:35+00:00 | sec=95  | BUY    | Down       | price=0.88       | size=50.0       | usd=44.0       | ext_id=raw:920da016b28ecc77d97abcb05215c229f6c94959
+2026-05-14T22:01:35+00:00 | sec=95  | BUY    | Down       | price=0.86       | size=38.41      | usd=33.0326    | ext_id=raw:d35e2185bb4df4d3dda37ccb7b657b21b6f130e0
+2026-05-14T22:01:37+00:00 | sec=97  | BUY    | Down       | price=0.870000036599356 | size=22.131537  | usd=19.254438  | ext_id=raw:c64aa160cc3f6db1c3a1cf8d0050a01afff39556
+2026-05-14T22:01:37+00:00 | sec=97  | BUY    | Down       | price=0.87       | size=50.0       | usd=43.5       | ext_id=raw:d6d40e4665290e9b7c5fc18da6509c79d4a2285b
+2026-05-14T22:01:39+00:00 | sec=99  | BUY    | Down       | price=0.87       | size=27.86      | usd=24.2382    | ext_id=raw:b1b646aa46e8a89eeb9e029114044e1c65847f8e
+2026-05-14T22:01:48+00:00 | sec=108 | BUY    | Down       | price=0.7100000235135148 | size=25.51724   | usd=18.117241  | ext_id=raw:3ced2b2d6487b91c45107bbd28a092488062c1e0
+2026-05-14T22:01:48+00:00 | sec=108 | BUY    | Down       | price=0.71       | size=16.02      | usd=11.3742    | ext_id=raw:ad57078dca9bb97524b3b99718f3660bc5f19e73
+2026-05-14T22:01:49+00:00 | sec=109 | BUY    | Up         | price=0.38       | size=5.0        | usd=1.9        | ext_id=raw:543925d7c0b8bce8b2b04f2ee88ef87bf35b8750
+2026-05-14T22:01:49+00:00 | sec=109 | BUY    | Up         | price=0.370000023625005 | size=12.69841   | usd=4.698412   | ext_id=raw:8554618836179f6ed57208c7854cf4a38c9014b4
+2026-05-14T22:01:49+00:00 | sec=109 | BUY    | Up         | price=0.38       | size=45.0       | usd=17.1       | ext_id=raw:ebaf4c53ccb693f7ea74a22d74a0fbe3e898af45
+2026-05-14T22:01:51+00:00 | sec=111 | BUY    | Up         | price=0.3700001195621084 | size=2.174602   | usd=0.804603   | ext_id=raw:46d7691f5c76488fc2decd2cc4b7a601ed9dbeaf
+2026-05-14T22:01:51+00:00 | sec=111 | BUY    | Up         | price=0.37       | size=35.12      | usd=12.9944    | ext_id=raw:61cb00c0f965afc285ff709539e3c599a43a7782
+2026-05-14T22:01:51+00:00 | sec=111 | BUY    | Down       | price=0.62       | size=3.0        | usd=1.86       | ext_id=raw:8e21c01c9dc03ce05f457ea6d1031b1416e0345a
+2026-05-14T22:01:51+00:00 | sec=111 | BUY    | Down       | price=0.6200006694323411 | size=0.507893   | usd=0.314894   | ext_id=raw:a60dc0f500194f84ef9c7f5ae25c8b300c9911e3
+2026-05-14T22:01:53+00:00 | sec=113 | BUY    | Down       | price=0.6200000167200009 | size=26.315788  | usd=16.315789  | ext_id=raw:6b6c03dc935f3eaa8f4a8ae61cbfb9f43e4088c8
+2026-05-14T22:01:53+00:00 | sec=113 | BUY    | Down       | price=0.6200001791870531 | size=3.236841   | usd=2.006842   | ext_id=raw:6eaa4b1d590c402bd6154c4a219eb4e087fd6f51
+2026-05-14T22:01:53+00:00 | sec=113 | BUY    | Down       | price=0.62       | size=5.0        | usd=3.1        | ext_id=raw:cecd1a81cedc7744cbfbe554c8052d46d7870e89
+2026-05-14T22:01:55+00:00 | sec=115 | BUY    | Down       | price=0.6300006575428158 | size=0.562701   | usd=0.354502   | ext_id=raw:3e2c0cf3291528058ee27fec953cbeaaf90dc8c0
+2026-05-14T22:01:55+00:00 | sec=115 | BUY    | Up         | price=0.36       | size=50.0       | usd=18.0       | ext_id=raw:badcaf25717d40cbd80632e4769b123fcc7d5847
+2026-05-14T22:01:55+00:00 | sec=115 | BUY    | Down       | price=0.6300001369000863 | size=2.702701   | usd=1.702702   | ext_id=raw:fd364b7e9fbea4b90e74e9b9cbc90729ca6c3b3f
+2026-05-14T22:01:56+00:00 | sec=116 | BUY    | Down       | price=0.6300000589560669 | size=4.918917   | usd=3.098918   | ext_id=raw:287a48da62ca47ab8edd1347d46ac1b39380a1bf
+2026-05-14T22:01:56+00:00 | sec=116 | BUY    | Down       | price=0.6300001504667058 | size=4.054053   | usd=2.554054   | ext_id=raw:6ba539b493237cecf77eb075903199d164fbc31c
+2026-05-14T22:01:58+00:00 | sec=118 | BUY    | Up         | price=0.35       | size=50.0       | usd=17.5       | ext_id=raw:950ba97f3f552c2117e12e9cb80f0a055afb56a6
+2026-05-14T22:02:00+00:00 | sec=120 | BUY    | Up         | price=0.34       | size=50.0       | usd=17.0       | ext_id=raw:054a7df177f42d00c561a1cab824e3f412df59c1
+2026-05-14T22:02:00+00:00 | sec=120 | BUY    | Up         | price=0.3300000015257036 | size=39.326118  | usd=12.977619  | ext_id=raw:694dc758d71fe2beff12ffac16e87ccb37900cb7
+2026-05-14T22:02:00+00:00 | sec=120 | BUY    | Up         | price=0.33       | size=5.67       | usd=1.8711     | ext_id=raw:b3a5e288c06652b64033eb2cb830dee33f58bb6d
+2026-05-14T22:02:00+00:00 | sec=120 | BUY    | Up         | price=0.33       | size=5.0        | usd=1.65       | ext_id=raw:d3276c527f979c156526633efd3889a74a46a38a
+2026-05-14T22:02:03+00:00 | sec=123 | BUY    | Down       | price=0.5100000202814582 | size=20.215509  | usd=10.30991   | ext_id=raw:0205e49cd19682cbf8bdbef99e031699161b47ad
+2026-05-14T22:02:03+00:00 | sec=123 | BUY    | Down       | price=0.6300001261026876 | size=4.044323   | usd=2.547924   | ext_id=raw:84f239a703c82e166ecf745c9859ce9fe24862c8
+2026-05-14T22:02:03+00:00 | sec=123 | BUY    | Up         | price=0.35       | size=50.0       | usd=17.5       | ext_id=raw:a64cafa4171e50ed68b1188108425e333bb99216
+2026-05-14T22:02:03+00:00 | sec=123 | BUY    | Down       | price=0.51       | size=20.0       | usd=10.2       | ext_id=raw:c85cc005bf36bc2b9da2344b750f750f5c12159e
+2026-05-14T22:02:03+00:00 | sec=123 | BUY    | Down       | price=0.6300001369000863 | size=2.702701   | usd=1.702702   | ext_id=raw:ced5b8677d5d3db834c71ec82598362b6a0137ed
+2026-05-14T22:02:05+00:00 | sec=125 | BUY    | Up         | price=0.44       | size=6.0        | usd=2.64       | ext_id=raw:2102551f811096615d4d31b1d84be7fe83a64cd3
+2026-05-14T22:02:05+00:00 | sec=125 | BUY    | Up         | price=0.44000001397504546 | size=20.035713  | usd=8.815714   | ext_id=raw:9b65de762ae72c5ecf22cfac90286d204ccd5972
+2026-05-14T22:02:05+00:00 | sec=125 | BUY    | Down       | price=0.52       | size=50.0       | usd=26.0       | ext_id=raw:a8b2f96ddd6892335ddbc399680f3e9082ff0c98
+2026-05-14T22:02:05+00:00 | sec=125 | BUY    | Up         | price=0.4400001792002294 | size=2.23214    | usd=0.982142   | ext_id=raw:b5fe646fd7c9f967ca74ce6e82a7e69312231201
+2026-05-14T22:02:05+00:00 | sec=125 | BUY    | Up         | price=0.44       | size=9.48       | usd=4.1712     | ext_id=raw:bc9518acb9d1fa04f85a4f77e601575a2017d35a
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.44       | size=5.0        | usd=2.2        | ext_id=raw:11a0b3c762cd689b69353bc2f885c8dc527147db
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.42       | size=50.0       | usd=21.0       | ext_id=raw:2bbb036a9d5ac8d66eb3c0b4c25b6181cc408a30
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.43       | size=50.0       | usd=21.5       | ext_id=raw:3d5e535261bf7836bedd2336e346c5b955a95bbd
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.42       | size=5.0        | usd=2.1        | ext_id=raw:446f14f80659d4ed7a1ef4cd2065f982e5308553
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.41       | size=50.0       | usd=20.5       | ext_id=raw:471acd1cc459cb74fbb74ac73e4b7fb586338b95
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.44       | size=7.24       | usd=3.1856     | ext_id=raw:77014c42f3d2badbde2795417b84bbef9df53e69
+2026-05-14T22:02:07+00:00 | sec=127 | BUY    | Up         | price=0.40000000688033976 | size=29.068332  | usd=11.627333  | ext_id=raw:7f1793cdc8acc00b581c1a93c12b3806513e831c
+2026-05-14T22:02:09+00:00 | sec=129 | BUY    | Up         | price=0.42       | size=0.55       | usd=0.231      | ext_id=raw:2a96cc903cb2c4173b0f76c6d2fea9f71fc2aa9b
+2026-05-14T22:02:09+00:00 | sec=129 | BUY    | Up         | price=0.42       | size=2.5        | usd=1.05       | ext_id=raw:91d6642334615777e27eae79aacba4417e994d97
+2026-05-14T22:02:09+00:00 | sec=129 | BUY    | Up         | price=0.42       | size=8.5        | usd=3.57       | ext_id=raw:f849de2f308d3ebfc377ace3ca881d4de975b5bf
+2026-05-14T22:02:09+00:00 | sec=129 | BUY    | Up         | price=0.4200000134390249 | size=28.275861  | usd=11.875862  | ext_id=raw:fec67f530319813b9779f4874332dfe07a3bea80
+2026-05-14T22:02:10+00:00 | sec=130 | BUY    | Down       | price=0.5600000973272122 | size=4.931817   | usd=2.761818   | ext_id=raw:0e19999d0c4de30c39c70ae5a317c85f2a9cd41a
+2026-05-14T22:02:10+00:00 | sec=130 | BUY    | Down       | price=0.56       | size=6.82       | usd=3.8192     | ext_id=raw:7c833b3b5ab4daab878d98c5bb3748aaf686842b
+2026-05-14T22:02:10+00:00 | sec=130 | BUY    | Down       | price=0.5600000892754089 | size=3.136362   | usd=1.756363   | ext_id=raw:d4346903a96040a545f36c3a46d43ac5b41ed360
+2026-05-14T22:02:10+00:00 | sec=130 | BUY    | Down       | price=0.5600000352000042 | size=11.363635  | usd=6.363636   | ext_id=raw:efeaca8338fe45ad7c679c3840ab9438692cefdf
+2026-05-14T22:02:28+00:00 | sec=148 | BUY    | Down       | price=0.3900000927200601 | size=2.049179   | usd=0.79918    | ext_id=raw:987688542e24e2d47411d50e5273025bfb802977
+2026-05-14T22:02:28+00:00 | sec=148 | BUY    | Down       | price=0.39       | size=5.0        | usd=1.95       | ext_id=raw:e37763d5bced9993e0acbe8e619985399d8d4fac
+2026-05-14T22:02:30+00:00 | sec=150 | BUY    | Down       | price=0.39       | size=30.77      | usd=12.0003    | ext_id=raw:6307bf422b9abf9bfdf84f98d259c851cd7eaaeb
+2026-05-14T22:02:30+00:00 | sec=150 | BUY    | Down       | price=0.4        | size=3.0        | usd=1.2        | ext_id=raw:ad4893a010a7f077933dc89c8f13f2d8ee401f51
+2026-05-14T22:02:30+00:00 | sec=150 | BUY    | Down       | price=0.4        | size=8.25       | usd=3.3        | ext_id=raw:bb68b3631b8b7c61801af379755962a03ae694e3
+2026-05-14T22:02:30+00:00 | sec=150 | BUY    | Down       | price=0.4        | size=10.0       | usd=4.0        | ext_id=raw:ca8e2a5731d2eb7c1728e838b53e4a6e80d87818
+2026-05-14T22:02:30+00:00 | sec=150 | BUY    | Down       | price=0.4        | size=6.0        | usd=2.4        | ext_id=raw:f1dc81336d538881946e3a501caf4011e16ba8cc
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.36       | size=10.0       | usd=3.6        | ext_id=raw:4ce71b918671b9b39c0db885a9cfe2a6c08a4d66
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35000016239196874 | size=0.923691   | usd=0.323292   | ext_id=raw:558ee9469a994bd99ba0f1924575b98fc1fa3441
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35000009750003414 | size=3.076922   | usd=1.076923   | ext_id=raw:5ab60be326d64215892a179d569ed9c5337e1e52
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35       | size=4.54       | usd=1.589      | ext_id=raw:6ef62545478139174c8eb76120d71f61429b3858
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.36       | size=20.0       | usd=7.2        | ext_id=raw:9c396979ff22c46059876152437b4abbfb3cef0d
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35       | size=1.78       | usd=0.623      | ext_id=raw:b32578dccf38457b43d91b9947fa90616391faa4
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35000002166666955 | size=9.230768   | usd=3.230769   | ext_id=raw:beda6de297c6686aba3205cbde70b6742d5f2284
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.35000009750003414 | size=3.076922   | usd=1.076923   | ext_id=raw:e92470e5d6128e085df9376957e95271b18ef73a
+2026-05-14T22:02:33+00:00 | sec=153 | BUY    | Up         | price=0.36       | size=20.0       | usd=7.2        | ext_id=raw:f0f4a857c22991ca20d75f5299677bee805b7060
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.27       | size=14.17      | usd=3.8259     | ext_id=raw:002ed08b47f10a8ba80ac32d657c319df86e7a28
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.24       | size=10.0       | usd=2.4        | ext_id=raw:119df0074f7a495f2224908323d127e2b0658311
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.27000000150982434 | size=13.246574  | usd=3.576575   | ext_id=raw:9f5f6246b03632f6f4f56e94a80461dfd58059ba
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.23       | size=2.07       | usd=0.4761     | ext_id=raw:a80cd333c2559d12f20071eae9b8a91fc0400455
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.23       | size=6.25       | usd=1.4375     | ext_id=raw:c6528e7dca127972dc26136f7a5eb51ef6b8dada
+2026-05-14T22:02:35+00:00 | sec=155 | BUY    | Up         | price=0.28       | size=20.0       | usd=5.6        | ext_id=raw:d78f2313ace7127ff44780acae285d2b6de28278
+2026-05-14T22:02:37+00:00 | sec=157 | BUY    | Down       | price=0.77       | size=22.55      | usd=17.3635    | ext_id=raw:5ae75dc6a8cd76dc4239e0315022a5877e8c7a7b
+2026-05-14T22:02:40+00:00 | sec=160 | BUY    | Down       | price=0.85       | size=1.0        | usd=0.85       | ext_id=raw:616753b00b9a903f1b9389091b553eef827c8068
+2026-05-14T22:02:40+00:00 | sec=160 | BUY    | Down       | price=0.84       | size=19.52      | usd=16.3968    | ext_id=raw:a2824109dddf73fecf9badc5719c2cb38f548442
+2026-05-14T22:02:40+00:00 | sec=160 | BUY    | Down       | price=0.84       | size=30.48      | usd=25.6032    | ext_id=raw:daa95c507dfcd0be0e2b3af9447b8e4aacf02df7
+2026-05-14T22:02:42+00:00 | sec=162 | BUY    | Down       | price=0.85       | size=9.93       | usd=8.4405     | ext_id=raw:4f30f8e72fe916309327b6689a775a3f4d68ac50
+2026-05-14T22:02:42+00:00 | sec=162 | BUY    | Down       | price=0.85       | size=39.07      | usd=33.2095    | ext_id=raw:754751fd96e9b1295efd76a1c7c793f26ae8c8ab
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Down       | price=0.85       | size=9.93       | usd=8.4405     | ext_id=raw:161f96800c1a2c481596325fa5d0911722021e01
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Down       | price=0.84       | size=2.12       | usd=1.7808     | ext_id=raw:7bb658d2b1db2738751fe979fe726103099f4543
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Down       | price=0.83       | size=50.0       | usd=41.5       | ext_id=raw:9b318aae646834a27feceb61c3f993ee8917faa0
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Up         | price=0.14       | size=45.17      | usd=6.3238     | ext_id=raw:a2ec24c724c613753cfb463284c91251a4179e6d
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Down       | price=0.85       | size=40.07      | usd=34.0595    | ext_id=raw:ac0fff23f5882d1a3d1a49155e20d48fdf8b44f7
+2026-05-14T22:02:44+00:00 | sec=164 | BUY    | Down       | price=0.84       | size=50.0       | usd=42.0       | ext_id=raw:d8652d92bad180af63a399d27b23f38d7f9c54f7
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.76       | size=15.0       | usd=11.4       | ext_id=raw:0795a0f47c7818846d5686f03ff8d2af111f1aac
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=5.31       | usd=3.9825     | ext_id=raw:2a0017e9291920ef53b364b66fd863b8eb15c19e
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.84       | size=14.93      | usd=12.5412    | ext_id=raw:340e2cb150bf69c5f01806c112105b17f67a04c1
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=5.0        | usd=3.75       | ext_id=raw:3767c1ef48eec75adc7f084e0d78d86a4c2dc590
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=4.67       | usd=3.5025     | ext_id=raw:426375abb8b769d2491dd8eb05455e9576abc8e6
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.74       | size=10.0       | usd=7.4        | ext_id=raw:57b6c2c0f8fd4eec34189bf7d14b986b15d1f79b
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.74       | size=20.0       | usd=14.8       | ext_id=raw:6696a431f0208f6ef53e492cb420cd76dfbd09d6
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.84       | size=32.95      | usd=27.678     | ext_id=raw:68fbdcf96ad96bfeb83ea6411e713c3d78889fa6
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.74       | size=7.02       | usd=5.1948     | ext_id=raw:8f9e3fac3aa9dd583f576d8279576cee1941f342
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=7.98       | usd=5.985      | ext_id=raw:a28ef091708deccd0cf2752ebdae8e8b85b47f81
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Up         | price=0.14       | size=4.83       | usd=0.6762     | ext_id=raw:a775f954b8579274900e2f36e938948cc17f353e
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.76       | size=15.0       | usd=11.4       | ext_id=raw:b57b3a3cd3dd5dfa88852db043f172f5a08c0145
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=13.52      | usd=10.14      | ext_id=raw:c583be88b524fe1ef6e0c1900c9223842746ec06
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.75       | size=13.52      | usd=10.14      | ext_id=raw:cde55b4b25f95e491090131c2c64d546b830a761
+2026-05-14T22:02:45+00:00 | sec=165 | BUY    | Down       | price=0.76       | size=20.0       | usd=15.2       | ext_id=raw:ef0b49ccff2c0d5b12714da6bed78a2524c55ced
+2026-05-14T22:02:52+00:00 | sec=172 | BUY    | Up         | price=0.24       | size=35.43      | usd=8.5032     | ext_id=raw:b8f274ba66d3e29f96db6bdf2e085791876f3992
+2026-05-14T22:02:54+00:00 | sec=174 | BUY    | Up         | price=0.24       | size=14.57      | usd=3.4968     | ext_id=raw:e799b9e7525e662efb9437d1550a8827026f85a8
+2026-05-14T22:02:59+00:00 | sec=179 | BUY    | Down       | price=0.69       | size=33.92      | usd=23.4048    | ext_id=raw:0d44f618a7caabcf019a40226dbb36bda5bb5e68
+2026-05-14T22:02:59+00:00 | sec=179 | BUY    | Down       | price=0.6900001103378859 | size=6.072257   | usd=4.189858   | ext_id=raw:2a9d7e30b87216098eb2e8f22790e413a19121cc
+2026-05-14T22:02:59+00:00 | sec=179 | BUY    | Down       | price=0.69       | size=10.0       | usd=6.9        | ext_id=raw:adefdeb656abc97613512c4718eca1e26f5f25a4
+2026-05-14T22:03:03+00:00 | sec=183 | BUY    | Up         | price=0.33       | size=20.0       | usd=6.6        | ext_id=raw:1aceffbb928b432e057199d379bbc7c574de0c5b
+2026-05-14T22:03:03+00:00 | sec=183 | BUY    | Up         | price=0.33       | size=10.0       | usd=3.3        | ext_id=raw:799218b99982ed4baa90f1e593c378df086029dd
+2026-05-14T22:03:03+00:00 | sec=183 | BUY    | Up         | price=0.33       | size=14.0       | usd=4.62       | ext_id=raw:7b4ff53084b9cf4fa92a2bb13e6460afdd4be1af
+2026-05-14T22:03:03+00:00 | sec=183 | BUY    | Up         | price=0.33       | size=6.0        | usd=1.98       | ext_id=raw:bdb73669d9c2f49ca705c4aa857e1ab0eb8e46c2
+2026-05-14T22:03:06+00:00 | sec=186 | BUY    | Down       | price=0.57       | size=17.16      | usd=9.7812     | ext_id=raw:35ba6ed83d0938050f40f0afd3dc0af1246ce223
+2026-05-14T22:03:06+00:00 | sec=186 | BUY    | Down       | price=0.5700000328472242 | size=16.744185  | usd=9.544186   | ext_id=raw:4e6ce6fb9f83a3789157b6f9653a9051562346f5
+2026-05-14T22:03:06+00:00 | sec=186 | BUY    | Down       | price=0.57       | size=9.3        | usd=5.301      | ext_id=raw:547b77a7d788cd99b8dd6f4cff30b6bfaedcbbe5
+2026-05-14T22:03:06+00:00 | sec=186 | BUY    | Down       | price=0.57       | size=6.79       | usd=3.8703     | ext_id=raw:8f50b0e6f04370b5dd516e9aac9bc776999ca057
+2026-05-14T22:03:12+00:00 | sec=192 | BUY    | Up         | price=0.55       | size=20.4       | usd=11.22      | ext_id=raw:28fc3176227d3e70b7f441e8b91dca0aa5e91d4a
+2026-05-14T22:03:12+00:00 | sec=192 | BUY    | Up         | price=0.56       | size=50.0       | usd=28.0       | ext_id=raw:330983ef7883c910d469d9a41138f545c623b7f5
+2026-05-14T22:03:12+00:00 | sec=192 | BUY    | Up         | price=0.5500000450000045 | size=11.11111   | usd=6.111111   | ext_id=raw:4993a246d74f1935078fc79c715e4bca9017d7b5
+2026-05-14T22:03:12+00:00 | sec=192 | BUY    | Up         | price=0.55       | size=50.0       | usd=27.5       | ext_id=raw:70ae67dcf70e6c6edfb40b7daa77ee471937ccf0
+2026-05-14T22:03:12+00:00 | sec=192 | BUY    | Up         | price=0.55       | size=11.02      | usd=6.061      | ext_id=raw:7ef926b78f821ae02fb7539c468453034c30a55d
+2026-05-14T22:03:13+00:00 | sec=193 | BUY    | Up         | price=0.55       | size=1.06       | usd=0.583      | ext_id=raw:03e7001b82e92b066865980483595f5bfcca06cf
+2026-05-14T22:03:13+00:00 | sec=193 | BUY    | Up         | price=0.5500001078767603 | size=3.244443   | usd=1.784444   | ext_id=raw:0fe5b08f9d58d305b5d52a7d81d7e981ef0a8c17
+2026-05-14T22:03:13+00:00 | sec=193 | BUY    | Up         | price=0.55       | size=1.16       | usd=0.638      | ext_id=raw:1eac84d45e8460de5ce21c3154f11e146f4c7cc3
+2026-05-14T22:03:13+00:00 | sec=193 | BUY    | Up         | price=0.55       | size=1.99       | usd=1.0945     | ext_id=raw:c014e8e804f101b5c1003b2964fb7bfd91501a45
+2026-05-14T22:03:15+00:00 | sec=195 | BUY    | Up         | price=0.44       | size=10.0       | usd=4.4        | ext_id=raw:a3c35624115ac5f1fcd73c4716ff984de7739ce8
+2026-05-14T22:03:15+00:00 | sec=195 | BUY    | Up         | price=0.44       | size=6.52       | usd=2.8688     | ext_id=raw:be42c42932739be17ddeb1422c1a4b36a3a2e811
+2026-05-14T22:03:17+00:00 | sec=197 | BUY    | Up         | price=0.4400001751521391 | size=2.055356   | usd=0.904357   | ext_id=raw:29e24ffb4c9463ebd859666699656768ff74c77e
+2026-05-14T22:03:17+00:00 | sec=197 | BUY    | Up         | price=0.43000003840426637 | size=4.947367   | usd=2.127368   | ext_id=raw:76c22b50f13c9672de76c4193693cf95b1e3fc1b
+2026-05-14T22:03:17+00:00 | sec=197 | BUY    | Up         | price=0.44       | size=31.42      | usd=13.8248    | ext_id=raw:a90a818f20b024c205cdbbc34b45481885664b95
+2026-05-14T22:03:17+00:00 | sec=197 | BUY    | Up         | price=0.43       | size=1.89       | usd=0.8127     | ext_id=raw:f262b9bc5c2e9f203f8d95c52830b2fb9feeddf7
+2026-05-14T22:03:17+00:00 | sec=197 | BUY    | Up         | price=0.43       | size=43.16      | usd=18.5588    | ext_id=raw:fbaad8bb25c4da68ded5d1ce7ecbdcf516564ded
+2026-05-14T22:03:22+00:00 | sec=202 | BUY    | Up         | price=0.44       | size=11.0       | usd=4.84       | ext_id=raw:6e7a539c13424b3d086cf249ef2b82ccc2e4d74f
+2026-05-14T22:03:22+00:00 | sec=202 | BUY    | Up         | price=0.44       | size=5.0        | usd=2.2        | ext_id=raw:9295c94a4afbd2d7e312f8a699c1885a840979d9
+2026-05-14T22:03:22+00:00 | sec=202 | BUY    | Up         | price=0.44       | size=1.81       | usd=0.7964     | ext_id=raw:93b407c9ed89d98268beced1292355ee9b939418
+2026-05-14T22:03:24+00:00 | sec=204 | BUY    | Up         | price=0.39       | size=10.0       | usd=3.9        | ext_id=raw:92cca35240596d4e3aba4e6527ea7ab478e1db4c
+2026-05-14T22:03:24+00:00 | sec=204 | BUY    | Up         | price=0.4400000336000148 | size=3.571427   | usd=1.571428   | ext_id=raw:c5f14480e93d83fb2566375e2ebf3310794567d2
+2026-05-14T22:03:24+00:00 | sec=204 | BUY    | Up         | price=0.44       | size=10.0       | usd=4.4        | ext_id=raw:d4dbb86a763c08bd277f05f939e67cac560d09a2
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.33000001412651425 | size=4.955221   | usd=1.635223   | ext_id=raw:121e75151a1d114cd82a48bfec94cc808c93c36a
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.33       | size=20.0       | usd=6.6        | ext_id=raw:28e741ed2b4afaa72c8339f70c1f688f8abe1f42
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.33       | size=5.0        | usd=1.65       | ext_id=raw:5579055dd599c583dc01507501e58b0c4027f979
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.39       | size=15.14      | usd=5.9046     | ext_id=raw:89461ee0a4feb7e83c3ef856fe647e87b1f2e664
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.33000003301451025 | size=5.149251   | usd=1.699253   | ext_id=raw:aa9959e53320288debfed84b1c0e70398dde9c96
+2026-05-14T22:03:26+00:00 | sec=206 | BUY    | Up         | price=0.33       | size=5.0        | usd=1.65       | ext_id=raw:ec74ba843e50472ecb60926b283bb2d394759592
+2026-05-14T22:03:27+00:00 | sec=207 | BUY    | Up         | price=0.33       | size=9.09       | usd=2.9997     | ext_id=raw:82053e965aa75282c3f1380ce73b0ccfa08c8e3f
+2026-05-14T22:03:27+00:00 | sec=207 | BUY    | Up         | price=0.33       | size=0.8        | usd=0.264      | ext_id=raw:e21df948fef1696c725f98ab92e8dc6d817b2896
+2026-05-14T22:03:31+00:00 | sec=211 | BUY    | Up         | price=0.44       | size=45.0       | usd=19.8       | ext_id=raw:dc6e7070e19b77c9255f6ef7ce6d633c3cb09d86
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35       | size=11.53846   | usd=4.038461   | ext_id=raw:11346e97018882a63866af6683cf07949456c14b
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.36000000237692914 | size=16.828436  | usd=6.058237   | ext_id=raw:6ce68f37d51659a5a58d4912961f5ae3850a9994
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35       | size=5.0        | usd=1.75       | ext_id=raw:8660a5a13668aedb7ec37554fd4e395e7b16e3e2
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35       | size=11.11      | usd=3.8885     | ext_id=raw:ad577233c56fd457175b46900c52108c5b6a2a63
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35       | size=6.38       | usd=2.233      | ext_id=raw:c7889d57ecfaa0a93734f8f0f0158794d975650d
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35000001951953064 | size=5.123074   | usd=1.793076   | ext_id=raw:cd700a43c36281ab99bf0aad130f069f08af2cc7
+2026-05-14T22:03:33+00:00 | sec=213 | BUY    | Up         | price=0.35       | size=15.84      | usd=5.544      | ext_id=raw:df018f514f655037e54f0e8dea9246750d5a3e1c
+2026-05-14T22:03:34+00:00 | sec=214 | BUY    | Up         | price=0.3500000325000114 | size=7.692305   | usd=2.692307   | ext_id=raw:01eb73db3988a8798db6905bfa8a1fb12956bbb1
+2026-05-14T22:03:34+00:00 | sec=214 | BUY    | Up         | price=0.35       | size=1.53846    | usd=0.538461   | ext_id=raw:c289f7acb9988df205ca093e3d7192dcbd392026
+2026-05-14T22:03:34+00:00 | sec=214 | BUY    | Up         | price=0.35000009750003414 | size=3.076922   | usd=1.076923   | ext_id=raw:c89a85704e5a47e2208c672de407aa5b76a804ee
+2026-05-14T22:03:36+00:00 | sec=216 | BUY    | Up         | price=0.4700000662500353 | size=2.867923   | usd=1.347924   | ext_id=raw:5e8a8d7182584f29c6c4684337348492a6b22d2f
+2026-05-14T22:03:38+00:00 | sec=218 | BUY    | Up         | price=0.4700001219000939 | size=1.886791   | usd=0.886792   | ext_id=raw:096a307573fdc5418bbdecad5f5239c21c99ec8c
+2026-05-14T22:03:38+00:00 | sec=218 | BUY    | Up         | price=0.4700000662500353 | size=2.867923   | usd=1.347924   | ext_id=raw:43a8d2a9755240a23ead6c17131e8ef059238b47
+2026-05-14T22:03:38+00:00 | sec=218 | BUY    | Up         | price=0.47       | size=22.72      | usd=10.6784    | ext_id=raw:4958bc306ce9ccded0a3b089fa2bd5f6b6be3f02
+2026-05-14T22:03:38+00:00 | sec=218 | BUY    | Up         | price=0.47       | size=3.13       | usd=1.4711     | ext_id=raw:d0232ce9a4eabae71e60b676fb83b21e6c1b5cdf
+2026-05-14T22:03:38+00:00 | sec=218 | BUY    | Up         | price=0.4700001219000939 | size=1.886791   | usd=0.886792   | ext_id=raw:ee0a76cbca2ef07cd774441e5eca906c44c54336
+2026-05-14T22:03:40+00:00 | sec=220 | BUY    | Up         | price=0.35       | size=10.0       | usd=3.5        | ext_id=raw:26fe7ce370c0b78146ff003096ff84b73728b7fe
+2026-05-14T22:03:40+00:00 | sec=220 | BUY    | Up         | price=0.35       | size=20.0       | usd=7.0        | ext_id=raw:560e684888c772d7225b3f87062ea25f467e0f8b
+2026-05-14T22:03:40+00:00 | sec=220 | BUY    | Up         | price=0.4700001219000939 | size=1.886791   | usd=0.886792   | ext_id=raw:990de8f857e1158c30eac9f50876e1b138879606
+2026-05-14T22:03:40+00:00 | sec=220 | BUY    | Up         | price=0.34       | size=20.0       | usd=6.8        | ext_id=raw:b8bab5d2c47cc03ffa5dadd29c68c84223248b64
+2026-05-14T22:03:41+00:00 | sec=221 | BUY    | Up         | price=0.35       | size=20.0       | usd=7.0        | ext_id=raw:a0aa03d6e0d077e2dd961a50df0314472b7d5bf1
+2026-05-14T22:03:45+00:00 | sec=225 | BUY    | Up         | price=0.26000000410258084 | size=34.124861  | usd=8.872464   | ext_id=raw:7c24aefd87d20bd86fe3cf961a9f055c7839c714
+2026-05-14T22:03:48+00:00 | sec=228 | BUY    | Down       | price=0.7300000249765533 | size=28.827036  | usd=21.043737  | ext_id=raw:3bdaba5393532e784c604e4ffc0252d60aaf9762
+2026-05-14T22:03:50+00:00 | sec=230 | BUY    | Down       | price=0.72       | size=27.16      | usd=19.5552    | ext_id=raw:398bacdc7b19bd3157c0373acb1626d5c2a571b8
+2026-05-14T22:03:50+00:00 | sec=230 | BUY    | Down       | price=0.72       | size=14.92      | usd=10.7424    | ext_id=raw:41c84d4e239471f1c96c8db3cc9208bcc629c63f
+2026-05-14T22:03:50+00:00 | sec=230 | BUY    | Down       | price=0.73       | size=6.0        | usd=4.38       | ext_id=raw:b923ae18168f47ed3f2d08ab369729c73ab4d7a7
+2026-05-14T22:03:52+00:00 | sec=232 | BUY    | Down       | price=0.72       | size=1.36       | usd=0.9792     | ext_id=raw:145a6fb6c8dcd3b231fd08b84fef45a44a1f5057
+2026-05-14T22:03:52+00:00 | sec=232 | BUY    | Down       | price=0.720000156800069 | size=3.571427   | usd=2.571428   | ext_id=raw:346b6e73ec527061d11b4d6d8b43d92bf1745f5c
+2026-05-14T22:03:52+00:00 | sec=232 | BUY    | Down       | price=0.72       | size=2.98       | usd=2.1456     | ext_id=raw:dc5435ac0294176c1f25a715d21befe0b50b2753
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=3.16       | usd=0.79       | ext_id=raw:17f38398ea6a7c32f37a06f037f18515f56255cd
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=6.666664   | usd=1.666666   | ext_id=raw:5fd14dce0305819931720a2c2b469030f25256ec
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=19.0       | usd=4.75       | ext_id=raw:8b5febe125aa45a3740cb0e3596636c8ac9bc412
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=5.0        | usd=1.25       | ext_id=raw:be6ae434b18ab781df50f9b0e61433c6048d1e6c
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=9.69       | usd=2.4225     | ext_id=raw:beb6876ad5783762dd15bf2bf01a3650f1b41b6b
+2026-05-14T22:03:54+00:00 | sec=234 | BUY    | Up         | price=0.25       | size=5.066664   | usd=1.266666   | ext_id=raw:f9f169602cc6cacc932a27d23aa5ec360afe511b
+2026-05-14T22:03:55+00:00 | sec=235 | BUY    | Up         | price=0.25       | size=1.333332   | usd=0.333333   | ext_id=raw:0a8a1f42c462669551b56427d5ae931e281c03cb
+2026-05-14T22:03:55+00:00 | sec=235 | BUY    | Up         | price=0.25       | size=0.07       | usd=0.0175     | ext_id=raw:be39072192eb8d5b17fc7ce4503afd742be220df
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.13       | size=14.18      | usd=1.8434     | ext_id=raw:16d52c5e1a6fd630faf790910f75572d3e9c11c1
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.16       | size=13.29      | usd=2.1264     | ext_id=raw:3593ba8b250ac9d24c031949589fc60768af3844
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.14       | size=5.0        | usd=0.7        | ext_id=raw:3d637ef02bcb5ab6022f995bfe343f0cd453a922
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.1400000162264301 | size=6.162785   | usd=0.86279    | ext_id=raw:8898b6d91bf6513b94d299c654d4bf5240695646
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.13       | size=15.82      | usd=2.0566     | ext_id=raw:90d11e1f2768ceaa9bf09b5ca88ee46e3bb99b6c
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.14       | size=8.83       | usd=1.2362     | ext_id=raw:9e315946c8df1c98fd83d09c750b38a093d8f885
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.16       | size=16.71      | usd=2.6736     | ext_id=raw:ab9f9859dcf1c3061a605814efe6c93d8eafc67b
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.16       | size=20.0       | usd=3.2        | ext_id=raw:ce112972d9e0990d3f518609abdbf0f0748a6166
+2026-05-14T22:03:57+00:00 | sec=237 | BUY    | Up         | price=0.13       | size=20.0       | usd=2.6        | ext_id=raw:e09506519a99a3fc2b79f615aa794e4ebc22a41b
+2026-05-14T22:03:59+00:00 | sec=239 | BUY    | Up         | price=0.14       | size=20.0       | usd=2.8        | ext_id=raw:1df737591b2ac0027ea83a7e1fd1396065f8f1cf
+2026-05-14T22:03:59+00:00 | sec=239 | BUY    | Up         | price=0.14       | size=10.0       | usd=1.4        | ext_id=raw:66e24f9aa3bd4777ce4ae93dbeaafcc9511efbbf
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=24.0       | usd=18.24      | ext_id=raw:2cbb590d6f4e42aebcaa5dfe39ccfab3190df884
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=2.0        | usd=1.52       | ext_id=raw:7b9b8eda57081c80be54a8a489ca18b9d3bb1020
+2026-05-14T22:04:01+00:00 | sec=241 | BUY    | Down       | price=0.76       | size=24.0       | usd=18.24      | ext_id=raw:c3ca0aa1d0f80f3546c4ac86a3151ccccc467d09
+2026-05-14T22:04:02+00:00 | sec=242 | BUY    | Down       | price=0.62       | size=10.4       | usd=6.448      | ext_id=raw:6f1179a6c71fe211b0b291093f15088aa6bf2518
+2026-05-14T22:04:04+00:00 | sec=244 | BUY    | Down       | price=0.62       | size=10.0       | usd=6.2        | ext_id=raw:d13b9eb4b4c37b9fffe61c01b63b0a5ad349cade
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.64       | size=20.0       | usd=12.8       | ext_id=raw:076fad83c166edaa7103e4db2b0654bc882aee9a
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=5.0        | usd=3.35       | ext_id=raw:2e34dc79888b4a304b9fa9a567d0c69206e7767e
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=7.16       | usd=4.7972     | ext_id=raw:50a0f442fa6bb12f31785b4c32e2beee17e6c447
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=10.0       | usd=6.7        | ext_id=raw:5ae8303e6c1d3adb17a92bf0219cb1648c59505c
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=15.0       | usd=9.9        | ext_id=raw:645708776e415f0b08c754051b495ae724c16f01
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.67       | size=9.05       | usd=6.0635     | ext_id=raw:7e2174a3ac2f5322bdf6a2434b50d766a4be464d
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=15.0       | usd=9.9        | ext_id=raw:b05f618f21ac9bb7299dcf39f9d44a51cba1efa8
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.66       | size=20.0       | usd=13.2       | ext_id=raw:be356be7345f7cf18c4dafc305e696ae21310b8e
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=6.63       | usd=4.3095     | ext_id=raw:caf3568545e764bbbe9e5467d3af18ec5e4603ad
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=15.0       | usd=9.75       | ext_id=raw:d41f176da19238ac616dd443384ee5cc5f84782c
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.6700000218225827 | size=18.787877  | usd=12.587878  | ext_id=raw:f56dbe96b3e0b7b1f10ee2e83f2a3e5c33b4a2d5
+2026-05-14T22:04:18+00:00 | sec=258 | BUY    | Down       | price=0.65       | size=20.0       | usd=13.0       | ext_id=raw:f770a348eb8ff89cb92b6db0453559c83b936a6d
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.64       | size=50.0       | usd=32.0       | ext_id=raw:2992e4276febda9749642cd6cc25a98ad47a4ae5
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.65       | size=10.0       | usd=6.5        | ext_id=raw:ae84f08e4d1b70fc7e10939e54ac1ce350ab1553
+2026-05-14T22:04:29+00:00 | sec=269 | BUY    | Down       | price=0.65       | size=10.0       | usd=6.5        | ext_id=raw:b73f8112c180d58fce9258645f53a42bdeaf64bc
+2026-05-14T22:04:30+00:00 | sec=270 | BUY    | Down       | price=0.8600000714482887 | size=10.357141  | usd=8.907142   | ext_id=raw:80431dd4a2031e82dd0e43f408db0cfbfb515197
+2026-05-14T22:04:30+00:00 | sec=270 | BUY    | Down       | price=0.63       | size=2.0        | usd=1.26       | ext_id=raw:dd986d863449c3fb4bf48b6dec08e8669a717e7b
+2026-05-14T22:04:32+00:00 | sec=272 | BUY    | Down       | price=0.8600001176000188 | size=7.142856   | usd=6.142857   | ext_id=raw:93062dbd23edf3a9828898773ce6876bba294177
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=13.17      | usd=12.7749    | ext_id=raw:2cba9dcadd059a581a43461198a286b3558292b4
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=5.15       | usd=4.9955     | ext_id=raw:91469079d090b8dcbbc3cae5ee1406b49d36eea9
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.97       | size=31.68      | usd=30.7296    | ext_id=raw:cca9acbabba5e00aa28305389f31420facaeda2b
+2026-05-14T22:04:41+00:00 | sec=281 | BUY    | Down       | price=0.96       | size=1.04       | usd=0.9984     | ext_id=raw:ff73aeae867e9ce879ff4a9beecb1f70794085d5
+2026-05-14T22:04:43+00:00 | sec=283 | BUY    | Down       | price=0.96       | size=20.4925    | usd=19.6728    | ext_id=raw:f0714f637e25cf64aea3176d3053bf9f883a854e
+2026-05-14T22:04:43+00:00 | sec=283 | BUY    | Down       | price=0.95       | size=13.89      | usd=13.1955    | ext_id=raw:fee11ff00191b40b2e750e623f240921068e1043
+2026-05-14T22:04:44+00:00 | sec=284 | BUY    | Down       | price=0.940000057815852 | size=15.566665  | usd=14.632666  | ext_id=raw:383a699253ef31f07cd49b159ea5c092d0a5a2ec
+2026-05-14T22:04:44+00:00 | sec=284 | BUY    | Down       | price=0.95       | size=9.09       | usd=8.6355     | ext_id=raw:79a750212e519e7ee7face7eae46ca35be0c1469
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=2.87       | usd=2.7839     | ext_id=raw:b7ee4d3a76c74bb802cb3bd23031bfdcc76653c8
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=1.04       | usd=1.0088     | ext_id=raw:fb115548f4fd2ed971919bcee036928f23931898
+2026-05-14T22:04:48+00:00 | sec=288 | BUY    | Down       | price=0.97       | size=1.04       | usd=1.0088     | ext_id=raw:ff7e51b20a0c43fd5102cebe57682449f3fe0285
+2026-05-14T22:04:50+00:00 | sec=290 | BUY    | Down       | price=0.97       | size=30.0       | usd=29.1       | ext_id=raw:267e01b0b0309cfe1088f2b3541e7a958dd9c24e
+
+AFTER WINDOW EVENTS (OUT OF STATS WINDOW)
+----------------------------------------------------------------------------------------------------
+2026-05-14T22:05:35+00:00 | sec=335 | REDEEM |            | price=0.0        | size=2807.407325 | usd=2807.407325 | ext_id=raw:9396e8cb0cc4edaa9a5a1253654f9a64f7d10cbf
