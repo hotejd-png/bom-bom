@@ -53,7 +53,20 @@ window_quality: MID
 
 CLOSED POSITIONS (THIS SLUG)
 ----------------------------------------------------------------------------------------------------
-No closed positions for this slug yet
+closed_count: 2
+closed_win_count: 1
+closed_loss_count: 1
+closed_flat_count: 0
+closed_total_bought_usd: 5476.867386
+closed_total_pnl_usd: 56.557546
+closed_total_settlement_usd: 5533.424932
+closed_roi_pct: 1.0327
+first_closed_ts: 2026-05-14T21:50:49+00:00
+execution_delay_sec: 49
+
+LATEST CLOSED (UP TO 20)
+2026-05-14T21:50:49+00:00 | outcome=Down | size=0.0 | bought=2738.691495 | settlement=3337.774782 | pnl=599.083287
+2026-05-14T21:50:49+00:00 | outcome=Up | size=0.0 | bought=2738.175891 | settlement=2195.65015 | pnl=-542.525741
 
 
 FIRST MINUTE TRADES (0-59s)
