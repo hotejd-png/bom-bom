@@ -1,0 +1,137 @@
+WINDOW: btc-updown-5m-1778805300 | btc-updown-5m-1778805300
+====================================================================================================
+window_et: 8:35-8:40 PM ET
+window_local: 03:35-03:40 Europe/Kyiv
+window_start_iso: 2026-05-15T00:35:00+00:00
+window_end_iso:   2026-05-15T00:40:00+00:00
+first_ts: 2026-05-15T00:35:27+00:00
+last_ts:  2026-05-15T00:39:04+00:00
+first_sec_from_start: 27
+last_sec_from_start:  244
+events:   423
+before_window_events: 0
+after_window_events: 1
+stats_grace_before_start_sec: 10
+stats_grace_after_end_sec: 30
+trades:   423
+buy:      423
+sell:     0
+merge:    0
+total_usd: 3016.974241
+total_size: 5855.256314
+spent_buy_usd: 3016.974241
+returned_sell_usd: 0
+returned_merge_usd: 0
+estimated_result_usd: -3016.974241
+first_merge_ts: N/A
+total_merge_size: 0.0
+stats_csv: stats.csv
+
+PAIR STATS (BUY SIDE)
+----------------------------------------------------------------------------------------------------
+buy_up_shares: 2934.19488
+buy_down_shares: 2921.061434
+paired_shares: 2921.061434
+unpaired_up_shares: 13.133446
+unpaired_down_shares: 0.0
+avg_up_buy_price: 0.416923
+avg_down_buy_price: 0.614037
+pair_cost_per_share: 1.03096
+
+PNL ESTIMATES
+----------------------------------------------------------------------------------------------------
+paired_buy_cost_usd: 3011.498603
+paired_redeem_value_usd: 2921.061434
+theoretical_pair_pnl_usd: -90.437169
+theoretical_pair_roi_pct: -3.0031
+merged_pairs_est_shares: 0.0
+merged_pair_pnl_est_usd: 0.0
+edge_per_pair_now: -0.03096
+merge_coverage_pct: 0.0
+realization_gap_usd: 2926.537072
+window_quality: WEAK
+
+CLOSED POSITIONS (THIS SLUG)
+----------------------------------------------------------------------------------------------------
+No closed positions for this slug yet
+
+
+FIRST MINUTE TRADES (0-59s)
+----------------------------------------------------------------------------------------------------
+count: 63
+2026-05-15T00:35:27+00:00 | sec=27  | BUY    | Up         | price=0.43       | size=41.18      | usd=17.7074   
+2026-05-15T00:35:27+00:00 | sec=27  | BUY    | Up         | price=0.43       | size=8.82       | usd=3.7926    
+2026-05-15T00:35:27+00:00 | sec=27  | BUY    | Up         | price=0.44       | size=45.0       | usd=19.8      
+2026-05-15T00:35:27+00:00 | sec=27  | BUY    | Up         | price=0.44       | size=5.0        | usd=2.2       
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.4400001568001129 | size=1.785713   | usd=0.785714  
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.4400000386207003 | size=5.17857    | usd=2.278571  
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.4400000224000036 | size=17.85714   | usd=7.857142  
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.4400000570181967 | size=4.910713   | usd=2.160714  
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.44       | size=7.0        | usd=3.08      
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.44       | size=5.625      | usd=2.475     
+2026-05-15T00:35:28+00:00 | sec=28  | BUY    | Up         | price=0.44       | size=5.83       | usd=2.5652    
+2026-05-15T00:35:30+00:00 | sec=30  | BUY    | Up         | price=0.4400001568001129 | size=1.785713   | usd=0.785714  
+2026-05-15T00:35:42+00:00 | sec=42  | BUY    | Up         | price=0.5700000129000022 | size=11.627905  | usd=6.627906  
+2026-05-15T00:35:42+00:00 | sec=42  | BUY    | Up         | price=0.57       | size=11.03      | usd=6.2871    
+2026-05-15T00:35:42+00:00 | sec=42  | BUY    | Up         | price=0.57       | size=0.01       | usd=0.0057    
+2026-05-15T00:35:42+00:00 | sec=42  | BUY    | Up         | price=0.5700001720001032 | size=2.32558    | usd=1.325581  
+2026-05-15T00:35:42+00:00 | sec=42  | BUY    | Up         | price=0.57       | size=25.0       | usd=14.25     
+2026-05-15T00:35:44+00:00 | sec=44  | BUY    | Up         | price=0.56       | size=0.86       | usd=0.4816    
+2026-05-15T00:35:44+00:00 | sec=44  | BUY    | Up         | price=0.5600000048842761 | size=49.137271  | usd=27.516872 
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.43000014250017393 | size=2.385962   | usd=1.025964  
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.42       | size=50.0       | usd=21.0      
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.42000000464000087 | size=8.620688   | usd=3.620689  
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.42000030789836273 | size=0.259826   | usd=0.109127  
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.43       | size=2.04       | usd=0.8772    
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.43       | size=10.0       | usd=4.3       
+2026-05-15T00:35:46+00:00 | sec=46  | BUY    | Down       | price=0.43       | size=35.57      | usd=15.2951   
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.370000018900007 | size=7.936505   | usd=2.936507  
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.36       | size=25.44875   | usd=9.16155   
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.37       | size=5.0        | usd=1.85      
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.37       | size=4.97       | usd=1.8389    
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.4        | size=3.79       | usd=1.516     
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.37       | size=11.0       | usd=4.07      
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.38       | size=20.0       | usd=7.6       
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.3800000372000052 | size=8.064515   | usd=3.064516  
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.36       | size=5.0        | usd=1.8       
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.37       | size=21.09      | usd=7.8033    
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.38       | size=20.0       | usd=7.6       
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.38       | size=1.93       | usd=0.7334    
+2026-05-15T00:35:51+00:00 | sec=51  | BUY    | Down       | price=0.4        | size=46.21      | usd=18.484    
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.35000000744789417 | size=26.853228  | usd=9.39863   
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.36       | size=1.5625     | usd=0.5625    
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.36       | size=2.35       | usd=0.846     
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.36       | size=15.625     | usd=5.625     
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.35       | size=12.67      | usd=4.4345    
+2026-05-15T00:35:53+00:00 | sec=53  | BUY    | Down       | price=0.35       | size=10.47      | usd=3.6645    
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.36       | size=42.27      | usd=15.2172   
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.35       | size=1.49846    | usd=0.524461  
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.36       | size=1.5625     | usd=0.5625    
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.36       | size=0.754375   | usd=0.271575  
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.35       | size=1.53846    | usd=0.538461  
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.36       | size=2.453125   | usd=0.883125  
+2026-05-15T00:35:55+00:00 | sec=55  | BUY    | Down       | price=0.36       | size=2.9375     | usd=1.0575    
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.35000004850747357 | size=5.153845   | usd=1.803846  
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.35       | size=2.0        | usd=0.7       
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.3500000325000114 | size=7.692305   | usd=2.692307  
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.35       | size=1.53846    | usd=0.538461  
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.35       | size=2.0        | usd=0.7       
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.3500000419355082 | size=2.384614   | usd=0.834615  
+2026-05-15T00:35:56+00:00 | sec=56  | BUY    | Down       | price=0.35       | size=1.53846    | usd=0.538461  
+2026-05-15T00:35:58+00:00 | sec=58  | BUY    | Down       | price=0.3500000120705684 | size=16.569228  | usd=5.79923   
+2026-05-15T00:35:58+00:00 | sec=58  | BUY    | Down       | price=0.35       | size=5.0        | usd=1.75      
+2026-05-15T00:35:58+00:00 | sec=58  | BUY    | Down       | price=0.35       | size=1.53846    | usd=0.538461  
+2026-05-15T00:35:58+00:00 | sec=58  | BUY    | Down       | price=0.35       | size=1.52       | usd=0.532     
+
+LAST MINUTE TRADES (240-299s)
+----------------------------------------------------------------------------------------------------
+count: 9
+2026-05-15T00:39:00+00:00 | sec=240 | BUY    | Down       | price=0.95       | size=50.0       | usd=47.5      
+2026-05-15T00:39:00+00:00 | sec=240 | BUY    | Down       | price=0.96       | size=50.0       | usd=48.0      
+2026-05-15T00:39:00+00:00 | sec=240 | BUY    | Down       | price=0.94       | size=50.0       | usd=47.0      
+2026-05-15T00:39:02+00:00 | sec=242 | BUY    | Down       | price=0.96       | size=50.0       | usd=48.0      
+2026-05-15T00:39:04+00:00 | sec=244 | BUY    | Down       | price=0.95       | size=50.0       | usd=47.5      
+2026-05-15T00:39:04+00:00 | sec=244 | BUY    | Down       | price=0.96       | size=13.0       | usd=12.48     
+2026-05-15T00:39:04+00:00 | sec=244 | BUY    | Down       | price=0.94       | size=50.0       | usd=47.0      
+2026-05-15T00:39:04+00:00 | sec=244 | BUY    | Down       | price=0.93       | size=50.0       | usd=46.5      
+2026-05-15T00:39:04+00:00 | sec=244 | BUY    | Down       | price=0.95       | size=50.0       | usd=47.5      
