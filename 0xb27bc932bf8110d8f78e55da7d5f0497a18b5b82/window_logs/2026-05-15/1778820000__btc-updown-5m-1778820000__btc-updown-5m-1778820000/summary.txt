@@ -53,7 +53,20 @@ window_quality: WEAK
 
 CLOSED POSITIONS (THIS SLUG)
 ----------------------------------------------------------------------------------------------------
-No closed positions for this slug yet
+closed_count: 2
+closed_win_count: 1
+closed_loss_count: 1
+closed_flat_count: 0
+closed_total_bought_usd: 8085.145876
+closed_total_pnl_usd: -1698.025873
+closed_total_settlement_usd: 6387.120003
+closed_roi_pct: -21.0018
+first_closed_ts: 2026-05-15T04:45:53+00:00
+execution_delay_sec: 53
+
+LATEST CLOSED (UP TO 20)
+2026-05-15T04:45:53+00:00 | outcome=Down | size=0.0 | bought=2976.019727 | settlement=4366.87445 | pnl=1390.854723
+2026-05-15T04:45:53+00:00 | outcome=Up | size=0.0 | bought=5109.126149 | settlement=2020.245553 | pnl=-3088.880596
 
 
 FIRST MINUTE TRADES (0-59s)
