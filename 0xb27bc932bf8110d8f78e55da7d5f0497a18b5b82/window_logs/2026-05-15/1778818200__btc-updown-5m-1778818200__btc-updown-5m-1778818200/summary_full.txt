@@ -54,19 +54,19 @@ window_quality: WEAK
 CLOSED POSITIONS (THIS SLUG)
 ----------------------------------------------------------------------------------------------------
 closed_count: 2
-closed_win_count: 0
-closed_loss_count: 0
-closed_flat_count: 2
+closed_win_count: 1
+closed_loss_count: 1
+closed_flat_count: 0
 closed_total_bought_usd: 6492.653923
-closed_total_pnl_usd: 0.0
-closed_total_settlement_usd: 6492.653923
-closed_roi_pct: 0.0
-first_closed_ts: 2026-05-15T04:14:15+00:00
-execution_delay_sec: -45
+closed_total_pnl_usd: -452.687399
+closed_total_settlement_usd: 6039.966524
+closed_roi_pct: -6.9723
+first_closed_ts: 2026-05-15T04:16:22+00:00
+execution_delay_sec: 82
 
 LATEST CLOSED (UP TO 20)
-2026-05-15T04:14:35+00:00 | outcome=Down | size=0.0 | bought=3242.106277 | settlement=3242.106277 | pnl=0.0
-2026-05-15T04:14:15+00:00 | outcome=Up | size=0.0 | bought=3250.547646 | settlement=3250.547646 | pnl=0.0
+2026-05-15T04:16:22+00:00 | outcome=Down | size=0.0 | bought=3242.106277 | settlement=4175.900969 | pnl=933.794692
+2026-05-15T04:16:22+00:00 | outcome=Up | size=0.0 | bought=3250.547646 | settlement=1864.065555 | pnl=-1386.482091
 
 
 FIRST MINUTE TRADES (0-59s)
