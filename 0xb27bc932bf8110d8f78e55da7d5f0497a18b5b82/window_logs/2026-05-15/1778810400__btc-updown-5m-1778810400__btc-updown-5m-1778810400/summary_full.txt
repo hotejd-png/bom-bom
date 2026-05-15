@@ -61,12 +61,12 @@ closed_total_bought_usd: 5997.263492
 closed_total_pnl_usd: -252.863523
 closed_total_settlement_usd: 5744.399969
 closed_roi_pct: -4.2163
-first_closed_ts: 2026-05-15T02:05:31+00:00
-execution_delay_sec: 31
+first_closed_ts: 2026-05-15T02:06:38+00:00
+execution_delay_sec: 98
 
 LATEST CLOSED (UP TO 20)
-2026-05-15T02:05:31+00:00 | outcome=Down | size=0.0 | bought=2986.394955 | settlement=927.32043 | pnl=-2059.074525
-2026-05-15T02:05:31+00:00 | outcome=Up | size=0.0 | bought=3010.868537 | settlement=4817.079539 | pnl=1806.211002
+2026-05-15T02:06:38+00:00 | outcome=Down | size=0.0 | bought=2986.394955 | settlement=927.32043 | pnl=-2059.074525
+2026-05-15T02:06:38+00:00 | outcome=Up | size=0.0 | bought=3010.868537 | settlement=4817.079539 | pnl=1806.211002
 
 
 FIRST MINUTE TRADES (0-59s)
